@@ -1,18 +1,13 @@
 *{
-		box-sizing: border-box;
-	font-family: sans-serif;
-	}
+	border-sizing:border box;
+font-size: 15px;
 
-
-.headers{
-
-	color:darkred;
-	font-weight: bold;
-	font-style: italic;
-	text-align: center;
-	font-family: inherit;
 }
+#headers{
+text-align: center;
+color: darkred;
 
+}
 
 header li{
 list-style: none;
@@ -63,7 +58,7 @@ header li:nth-child(4){
 p{
 	width: 50%;
 padding: 40px;
-background-color: ;
+
 
 }
 
@@ -71,15 +66,12 @@ background-color: ;
 
 float: left;
 height: 600px;
-font-size:20px ;
 text-align: left;
 
 }
 #p2{
 	float: right;
 	height: 600px;
-font-size: 20px;
-background-color: ;
 text-align: left;
 
 
