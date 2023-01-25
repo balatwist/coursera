@@ -3,17 +3,17 @@
 font-size: 15px;
 
 }
+#header-nav{
+
+
+}
+
 #headers{
 text-align: center;
 color: darkred;
 
 }
 
-header li{
-list-style: none;
-text-align: center;
-
-}
 
 
 a:link,a:visited{
