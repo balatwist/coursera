@@ -59,7 +59,22 @@ list-style: none;
 font-size: 20px;
 }
 
-@media (max-width:800px){
+.jombotron{
+
+	padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+/*small devices*/
+@media (max-width:991px){
 
 nav{
 	font-size: 12px;
@@ -90,5 +105,21 @@ clear: both;
 	text-align: center;
 	font-size: 10px;
 }
-}	
 
+
+
+/*medium devices*/
+}	
+@media (max-width:1199px)and(min-width:992{
+
+
+
+}
+
+/*large devices*/
+@media(min-width:1200px){
+
+
+
+
+}
