@@ -61,12 +61,12 @@ font-size: 20px;
 }
 
 #jombotron{
-
+background-color:  #5F8575;
 	padding: 15px;
 }
 
 .descriptions{
-background-color:  #5F8575 ;
+
 	float: right;
 	text-align: center;
 	font-size: 15px;
@@ -94,17 +94,19 @@ width: 100%;
 
 }
 
-#jombotron{
-	
-	padding: 15px;
-}
-
 .descriptions{
 width: 100%;
 	text-align: center;
 	font-size: 12px;
 
 }
+
+#jombotron{
+	
+	padding: 15px;
+}
+
+
 nav{
 	font-size: 12px;
 	float: right;
@@ -141,6 +143,11 @@ clear: both;
 /*medium devices*/
 }	
 @media (max-width:1199px)and(min-width:992{
+.descriptions{
+
+	float: right;
+	text-align: center;
+	font-size: 15px;
 
 
 }
