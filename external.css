@@ -8,6 +8,8 @@ font-size: 12px;
 text-align: center;
 color: #5F8575;
 padding: 15px;
+clear: both;
+
 }
 
 
@@ -55,10 +57,7 @@ text-align: left;
 
 }
 
-#section2{
-list-style: none;
-font-size: 20px;
-}
+
 
 #jombotron{
 
@@ -70,7 +69,8 @@ background-color: #2980b9 ;
 	float: right;
 	text-align: center;
 	font-size: 15px;
-	height: 300px;
+	height: 500px;
+	color: antiquewhite ;
 
 }
 
@@ -146,11 +146,19 @@ clear: both;
 @media (max-width:1199px)and(min-width:992{
 
 
+
+}
+
 }
 /*large devices*/
 @media(min-width:1200px){
 
+.descriptions{
 
+	
+	font-size: 15px;
+	height: 500px;
+	
 
 
 }
