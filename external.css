@@ -61,21 +61,22 @@ font-size: 20px;
 }
 
 #jombotron{
-background-color:  #5F8575;
+
 	padding: 15px;
 }
 
 .descriptions{
-
+background-color: #2980b9 ;
 	float: right;
 	text-align: center;
 	font-size: 15px;
+	height: 300px;
 
 }
 
 footer{
 	clear: both;
-	background-color: #2980b9 ;
+	 background-color: #2980b9 ;
 	height: 150px;
 	text-align: center;
 
@@ -143,11 +144,6 @@ clear: both;
 /*medium devices*/
 }	
 @media (max-width:1199px)and(min-width:992{
-.descriptions{
-
-	float: right;
-	text-align: center;
-	font-size: 15px;
 
 
 }
