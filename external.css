@@ -72,17 +72,20 @@ background-color: #2980b9 ;
 	height: 500px;
 	color: antiquewhite ;
 
+
 }
 
 footer{
+
 	clear: both;
 	 background-color: #2980b9 ;
-	height: 150px;
+	height: 170px;
 	text-align: center;
+	padding: 20px;
+	color: antiquewhite;
+font-style: italic;
 
 }
-
-
 
 
 
@@ -140,26 +143,62 @@ clear: both;
 	font-size: 12px;
 }
 
+}
 
 
 /*medium devices*/
-}	
-@media (max-width:1199px)and(min-width:992{
+@media (max-width:1199px)and(min-width:992){
 
+#jombotron{
 
-
+	padding: 15px;
 }
-
-}
-/*large devices*/
-@media(min-width:1200px){
 
 .descriptions{
-
-	
+background-color: #2980b9 ;
+	float: right;
+	text-align: center;
 	font-size: 15px;
 	height: 500px;
-	
-
+	color: antiquewhite ;
 
 }
+
+#imagewithdescription{
+width: 50%;
+
+}
+
+}
+
+
+/*large devices*/
+	@media(min-width:1200px){
+
+#jombotron{
+
+	padding: 15px;
+}
+
+.descriptions{
+background-color: #2980b9 ;
+	float: right;
+	text-align: center;
+	font-size: 15px;
+	height: 500px;
+	color: antiquewhite ;
+
+}
+
+#imagewithdescription{
+width: 50%;
+
+}
+
+
+
+
+	}
+
+
+	
