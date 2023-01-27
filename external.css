@@ -1,8 +1,8 @@
-*{
-	border-sizing:border box;
-font-size: 12px;
-}
 
+*{
+font-size: 13px;
+
+}
 
 #headers{
 text-align: center;
@@ -79,7 +79,7 @@ footer{
 
 	clear: both;
 	 background-color: #2980b9 ;
-	height: 170px;
+	height: 200px;
 	text-align: center;
 	padding: 20px;
 	color: antiquewhite;
