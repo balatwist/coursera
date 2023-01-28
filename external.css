@@ -32,7 +32,9 @@ font-size: 20px;
 }
 
 
-
+a{
+	color: green;
+}
 a:link{
 color: green;
 text-decoration: none;
