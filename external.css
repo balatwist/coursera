@@ -14,16 +14,15 @@ font-size: 15px;
 	clear: both;
 }
 
-
-.nav{
-	font-size: 13px;
-
+.custom-bg-light {
+    background-color: white ;
 }
-.nav-link {
-    display: block;
-    padding: 0.5rem 1rem;
+
+.custom-nav-link {
     color: green;
+    padding: 10px;
 }
+
 
 #headers{
 text-align: center;
@@ -141,18 +140,11 @@ height: 300px;
 	padding: 15px;
 
 }
-.nav-link {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 0.5rem 1rem;
-    color: green;}
-
-.nav{
-	font-size: 10px;
-	float: right;
-
+.navbar-light .navbar-nav .nav-link {
+    color: green;
 }
+
+
 
 .headers{
 font-size: 10px;
