@@ -148,7 +148,7 @@ height: 300px;
 }
 
 
-nav{
+.nav{
 	font-size: 12px;
 	float: right;
 
@@ -177,6 +177,18 @@ clear: both;
 	height: 300px;
 	text-align: center;
 	font-size: 12px;
+}
+
+footer{
+
+	clear: both;
+	 background-color: #2980b9 ;
+	height: 230px;
+	text-align: center;
+	padding: 20px;
+	color: antiquewhite;
+font-style: italic;
+
 }
 
 }
