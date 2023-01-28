@@ -1,15 +1,25 @@
 
-*{
-font-size: 13px;
+body{
+font-size: 15px;
 
+}
+
+
+.nav{
+	font-size: 20px;
+
+}
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: green;
 }
 
 #headers{
 text-align: center;
-color: #5F8575;
-padding: 15px;
+color: green;
 clear: both;
-
+font-size: 20px;
 }
 
 
@@ -20,11 +30,12 @@ text-decoration: none;
 font-style: italic;
 
 
+
 }
 
 a:hover,active{
 
-background-color: lightblue;
+background-color: #2980b9;
 
 }
 
@@ -62,6 +73,7 @@ text-align: left;
 #jombotron{
 
 	padding: 15px;
+	
 }
 
 .descriptions{
