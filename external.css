@@ -11,11 +11,12 @@ font-size: 15px;
 	font-size: 20px;
 	padding: 20px;
 	font-style: italic;
+	clear: both;
 }
 
 
 .nav{
-	font-size: 12px;
+	font-size: 13px;
 
 }
 .nav-link {
