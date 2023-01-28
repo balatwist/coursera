@@ -125,7 +125,6 @@ font-style: italic;
 
 
 
-
 /*small devices*/
 @media (max-width:991px){
 
@@ -149,7 +148,7 @@ height: 300px;
 
 
 .nav{
-	font-size: 12px;
+	font-size: 10px;
 	float: right;
 
 }
